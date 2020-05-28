@@ -1,8 +1,8 @@
-# What is Customer Segmentation?
+## What is Customer Segmentation?
 Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
 
 
-# Why Segment Customers?
+## Why Segment Customers?
 Segmentation allows marketers to better tailor their marketing efforts to various audience subsets. Those efforts can relate to both communications and product development. Specifically, segmentation helps a company:
 
 Create and communicate targeted marketing messages that will resonate with specific groups of customers, but not with others (who will receive messages tailored to their needs and interests, instead).
