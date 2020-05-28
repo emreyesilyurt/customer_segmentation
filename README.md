@@ -13,7 +13,7 @@ Identify ways to improve products or new product or service opportunities.
 Establish better customer relationships.
 Test pricing options.
 Focus on the most profitable customers.
-Improve customer service.
+Improve customer service. 
 Upsell and cross-sell other products and services.
 How to Segment Customers
 Customer segmentation requires a company to gather specific information – data – about customers and analyze it to identify patterns that can be used to create segments.
