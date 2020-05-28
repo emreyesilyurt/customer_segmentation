@@ -21,6 +21,8 @@ Customer segmentation requires a company to gather specific information – data
 Some of that can be gathered from purchasing information – job title, geography, products purchased, for example. Some of it might be gleaned from how the customer entered your system. An online marketer working from an opt-in email list might segment marketing messages according to the opt-in offer that attracted the customer, for example. Other information, however, including consumer demographics such as age and marital status, will need to be acquired in other ways.
 
 
+![alt-text](https://miro.medium.com/max/1000/0*rNjdpgNshbeUuTIa.jpg)
+
 ## Advantages of Customer Segmentation
  
   -Determine appropriate product pricing.
@@ -28,18 +30,3 @@ Some of that can be gathered from purchasing information – job title, geograph
   -Design an optimal distribution strategy.
   -Choose specific product features for deployment.
   -Prioritize new product development efforts.
-
-
-
-
-
-
-
-
-
-
-
-This piece of code includes comparison of K-Means Clustering and Agglomerative Clustering using the Mall_Customers.csv dataset and finding the optimal cluster number with WCSS.
-
-
-![alt-text](https://miro.medium.com/max/1000/0*rNjdpgNshbeUuTIa.jpg)
