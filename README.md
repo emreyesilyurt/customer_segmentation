@@ -23,10 +23,9 @@ Some of that can be gathered from purchasing information – job title, geograph
 
 ![alt-text](https://miro.medium.com/max/1000/0*rNjdpgNshbeUuTIa.jpg)
 
-## Advantages of Customer Segmentation
- 
-  -Determine appropriate product pricing.
-  -Develop customized marketing campaigns.
-  -Design an optimal distribution strategy.
-  -Choose specific product features for deployment.
-  -Prioritize new product development efforts.
+#### Advantages of Customer Segmentation
+- Determine appropriate product pricing.
+- Develop customized marketing campaigns.
+- Design an optimal distribution strategy.
+- Choose specific product features for deployment.
+- Prioritize new product development efforts.
