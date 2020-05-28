@@ -1,3 +1,5 @@
+![alt-text](https://miro.medium.com/max/681/1*iejTpHhx-u_R73XQD0GFkg.jpeg)
+
 ## What is Customer Segmentation?
 Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
 
@@ -19,7 +21,13 @@ Customer segmentation requires a company to gather specific information – data
 Some of that can be gathered from purchasing information – job title, geography, products purchased, for example. Some of it might be gleaned from how the customer entered your system. An online marketer working from an opt-in email list might segment marketing messages according to the opt-in offer that attracted the customer, for example. Other information, however, including consumer demographics such as age and marital status, will need to be acquired in other ways.
 
 
-
+## Advantages of Customer Segmentation
+ 
+  -Determine appropriate product pricing.
+  -Develop customized marketing campaigns.
+  -Design an optimal distribution strategy.
+  -Choose specific product features for deployment.
+  -Prioritize new product development efforts.
 
 
 
